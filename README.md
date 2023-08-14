@@ -14,8 +14,9 @@ Demo - [Link]()
 ## Installation
 
 1.  Clone the repository:
-
-    `https://github.com/TechTronixx/Token_Stats`
+   ```bash
+https://github.com/TechTronixx/Token_Stats
+   ```
 
 2.  Navigate to the project directory:
 
