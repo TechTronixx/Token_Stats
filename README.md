@@ -1,56 +1,54 @@
 # Token Supply & Burn Stats
 
-This website is way to track the supply and burn stats of the $TOKEN token. It is built using Reactjs and Vite.
+This website is a way to track the supply and burn stats of the $TOKEN token. It is built using Reactjs and Vite.
 
 ## Features
 
 - Supply stats
 - Burn stats
 
-## Demo Demo - [Link]()
+## Demo
+
+Demo - [Link]()
 
 ## Installation
 
-1. Clone the repository:
+1.  Clone the repository:
 
-   ```bash
-   https://github.com/TechTronixx/3D-Ball-3js
-   ```
+    `https://github.com/TechTronixx/Token_Stats`
 
-2. Navigate to the project directory:
+2.  Navigate to the project directory:
 
-   `cd 3d-ball-app`
+    `cd PRNT_STATS`
 
-3. Install dependencies using npm or yarn:
+3.  Install dependencies using npm or yarn:
 
-   `npm install`
+    `npm install`
 
-   or
+    or
 
-   `yarn`
+    `yarn`
 
-4. Start the development server with Vite:
+4.  Start the development server with Vite:
 
-   `npm run dev`
+    `npm run dev`
 
-   or
+    or
 
-   `yarn dev`
+    `yarn dev`
 
-5. Open your web browser and visit the local development URL provided by Vite. Typically, it will be something like `http://localhost:3000/`.
-
-Now you should be able to see and interact with the 3D ball application locally using Vite's development server.
+5.  Open your web browser and visit the local development URL provided by Vite. Typically, it will be something like `http://localhost:3000/`.
 
 ## Tech used
 
-    - Reactjs
-    - Vite
-    - HTML-CSS
-    - Javascript
-    - axios (for API calls)
+- Reactjs
+- Vite
+- HTML-CSS
+- Javascript
+- axios (for API calls)
 
 ## Credits
 
-    - [Reactjs](https://reactjs.org/)
-    - [Vercel](https://vercel.com/)
-    - [Vite](https://vitejs.dev/)
+- [Reactjs](https://reactjs.org/)
+- [Vercel](https://vercel.com/)
+- [Vite](https://vitejs.dev/)
